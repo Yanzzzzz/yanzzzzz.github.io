@@ -1,0 +1,25 @@
+title: ZHENG YAN / 郑岩
+position: Associate Professor / 副教授
+affiliation: Tianjin University / 天津大学
+email: yanzheng (at) tju.edu.cn
+keywords: Yan Zheng's Personal Website, Tianjin university, artificial itelligence, deep reinforcement learning, multaigent system,  
+google_scholar: https://scholar.google.com/citations?user=tJuhd1kAAAAJ
+github_link: https://github.com/TJU-DRL-LAB/AI-Optimizer
+linkedin: 
+avatar: ./assets/img/avatar.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/avatar.png
+favicon_dark: ./assets/img/avatar.png
+description: Yan Zheng's Personal Website
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
