@@ -15,6 +15,7 @@ I’m now a Associate Professor in Tianjin University, co-learding the [Deep Rei
 - **Large-scale Learning System:** distributed RL, evolutioanry RL. 
 
 ## News
+- **[Sep. 2022]** Our paper about Symoblic RL is accepted to [NeurIPS 2022](https://nips.cc/Conferences/2022) !
 - **[Jun. 2022]** Our paper about cooperative multiagent RL is accepted to [ICML 2022](https://icml.cc/Conferences/2022) !
 - **[May. 2022]** Our paper about transfer RL is accepted to [UAI 2022](https://www.auai.org/uai2022/) !
 - **[Apr. 2022]** Our paper about representation RL is accepted to [IJCAI 2022](https://ijcai-22.org/) !
@@ -31,6 +32,9 @@ I’m now a Associate Professor in Tianjin University, co-learding the [Deep Rei
 ## Publications [<font size=3>[Google scholar]</font>](https://scholar.google.com/citations?user=tJuhd1kAAAAJ)
 
 ### 2022
+- **GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis (NeurIPS 2022)** <br/>
+  <font style="font-size:0.8rem">Yushi Cao, Zhiming Li, Tianpei Yang, Hao Zhang, <strong>Yan Zheng</strong>*, Yi Li, Jianye Hao, Yang Liu</font>
+  
 - **PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration (ICML 2022)** <br/>
   <font style="font-size:0.8rem">Pengyi Li, Hongyao Tang, Tianpei Yang, Xiaotian Hao, Sang Tong, <strong>Yan Zheng</strong>*, Jianye Hao*, Matthew E. Taylor, Jinyi Liu</font>
 - **Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence (UAI 2022)**<br/>
