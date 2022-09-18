@@ -75,6 +75,8 @@ I’m now a Associate Professor in Tianjin University, co-learding the [Deep Rei
   <font style="font-size:0.8rem"><b>Yan Zheng</b>, Jianye Hao, Zongzhang Zhang, Zhaopeng Meng, Xiaotian Hao.</font>
 - **Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning (ASE 2019, <span style="color:rgb(194, 59, 59)">Distinguished Paper Award</span>)** <br/>
   <font style="font-size:0.8rem"><b>Yan Zheng</b>, Xiaofei Xie, Ting Su, Lei Ma, Jianye Hao, Zhaopeng Meng, Yang Liu, Ruimin Shen, Yinfeng Chen and Changjie Fan.</font>
+  
+### 2019
 - **Large-scale home energy management using entropy-based collective multiagent deep reinforcement learning framework (IJCAI 2019)** <br/>
   <font style="font-size:0.8rem">Yaodong Yang, Jianye Hao, <b>Yan Zheng</b>, Chao Yu.</font>
 - **Towards Efficient Detection and Optimal Response against Sophisticated Opponents (IJCAI 2019)** <br/>
