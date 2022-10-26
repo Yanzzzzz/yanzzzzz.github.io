@@ -15,7 +15,7 @@ I’m now a Associate Professor in Tianjin University, co-learding the [Deep Rei
 - **Large-scale Learning System:** distributed RL, evolutioanry RL. 
 
 ## News
-- **[Sep. 2022]** Our three papers are accepted to [NeurIPS DeepRL Workshop 2022]([https://nips.cc/Conferences/2022](https://sites.google.com/view/deep-rl-workshop-neurips-2022)) !
+- **[Oct. 2022]** Our three papers are accepted to [NeurIPS DeepRL Workshop 2022](https://nips.cc/Conferences/2022](https://sites.google.com/view/deep-rl-workshop-neurips-2022) !
 - **[Sep. 2022]** Our paper about Symoblic RL is accepted to [NeurIPS 2022](https://nips.cc/Conferences/2022) !
 - **[Jun. 2022]** Our paper about cooperative multiagent RL is accepted to [ICML 2022](https://icml.cc/Conferences/2022) !
 - **[May. 2022]** Our paper about transfer RL is accepted to [UAI 2022](https://www.auai.org/uai2022/) !
