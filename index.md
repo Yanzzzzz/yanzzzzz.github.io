@@ -15,7 +15,7 @@ I’m now a Associate Professor in Tianjin University, co-learding the [Deep Rei
 - **Large-scale Learning System:** distributed RL, evolutioanry RL. 
 
 ## News
-- **[Jan. 2023]** Our three paper (one spotlight) are accepted to [ICLR 2023](https://iclr.cc/Conferences/2023) !
+- **[Jan. 2023]** Our four paper (one spotlight) are accepted to [ICLR 2023](https://iclr.cc/Conferences/2023) !
 - **[Dec. 2022]** Our solution won the 1st prize in the NeruIPS Driving SMARTS Competition (Track 1 & 2) [NeruIPS 2022 Competition](https://smarts-project.github.io/) !
 - **[Nov. 2022]** Our paper is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23) !
 - **[Oct. 2022]** Our three papers are accepted to [NeurIPS DeepRL Workshop 2022](https://sites.google.com/view/deep-rl-workshop-neurips-2022) !
